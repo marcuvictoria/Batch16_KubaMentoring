@@ -77,7 +77,7 @@ public class Test1 {
                 Assert.assertTrue(messages.get(i).isDisplayed());
             }
         }
-
+        System.out.println("This one for gitHub");
 
     }
 }
